@@ -1,0 +1,9 @@
+/Users/Jun/RiderProjects/WayneFTPService/WayneFTPService/bin/Debug/WayneFTPService.exe
+/Users/Jun/RiderProjects/WayneFTPService/WayneFTPService/bin/Debug/WayneFTPService.pdb
+/Users/Jun/RiderProjects/WayneFTPService/WayneFTPService/obj/Debug/WayneFTPService.csprojResolveAssemblyReference.cache
+/Users/Jun/RiderProjects/WayneFTPService/WayneFTPService/obj/Debug/WayneFTPService.csproj.CoreCompileInputs.cache
+/Users/Jun/RiderProjects/WayneFTPService/WayneFTPService/obj/Debug/WayneFTPService.exe
+/Users/Jun/RiderProjects/WayneFTPService/WayneFTPService/obj/Debug/WayneFTPService.pdb
+/Users/Jun/RiderProjects/WayneFTPService/WayneFTPService/bin/Debug/Newtonsoft.Json.dll
+/Users/Jun/RiderProjects/WayneFTPService/WayneFTPService/bin/Debug/Newtonsoft.Json.xml
+/Users/Jun/RiderProjects/WayneFTPService/WayneFTPService/bin/Debug/FTPConfig/config.json
